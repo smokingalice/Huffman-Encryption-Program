@@ -25,7 +25,6 @@ typedef struct zidian
 }zidian;
 
 string daxiezhuanxiaoxie(string& s) {
-
     int len = s.size();
     string s1 = s;
     for (int i = 0; i < len; i++) {
